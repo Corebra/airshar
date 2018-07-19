@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Freeh521';
+    src: url('fonts/Freeh521.eot');
+    src: url('fonts/Freeh521.eot') format('embedded-opentype'),
+         url('fonts/Freeh521.woff2') format('woff2'),
+         url('fonts/Freeh521.woff') format('woff'),
+         url('fonts/Freeh521.ttf') format('truetype'),
+         url('fonts/Freeh521.svg#Freeh521') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'lemontuesday';
+    src: url('fonts/lemontuesday.eot');
+    src: url('fonts/lemontuesday.eot') format('embedded-opentype'),
+         url('fonts/lemontuesday.woff2') format('woff2'),
+         url('fonts/lemontuesday.woff') format('woff'),
+         url('fonts/lemontuesday.ttf') format('truetype'),
+         url('fonts/lemontuesday.svg#lemontuesday') format('svg');
+}

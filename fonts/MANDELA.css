@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MANDELA';
+    src: url('fonts/MANDELA.eot');
+    src: url('fonts/MANDELA.eot') format('embedded-opentype'),
+         url('fonts/MANDELA.woff2') format('woff2'),
+         url('fonts/MANDELA.woff') format('woff'),
+         url('fonts/MANDELA.ttf') format('truetype'),
+         url('fonts/MANDELA.svg#MANDELA') format('svg');
+}
